@@ -1,6 +1,8 @@
 # ARIMA & AutoARIMA
 to Dacon Jeju Card Project
 
+--------------------------------------------------------
+
 Used Algorithms are ARIMA & Auto ARIMA
 
 * Used Files are in Dacon
