@@ -1,5 +1,5 @@
-# ARIMA_Dacon
-Dacon Jeju Card Project With Arima Algorithm
+# ARIMA & AutoARIMA
+to Dacon Jeju Card Project
 
 Used Algorithms are ARIMA & Auto ARIMA
 
